@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['dom_tools'],
-    install_requires=['requests'],
+    install_requires=['requests', 'pandas'],
 )
