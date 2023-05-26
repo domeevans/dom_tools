@@ -6,14 +6,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='dom_tools',
     version='0.0.3',
-    author='Mike Huls',
-    author_email='mike_huls@hotmail.com',
+    author='Dominic Evans',
+    author_email='dominic.evans@decathlon.com',
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/domeevans/dom_tools',
     project_urls = {
-        "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
+        "Bug Tracker": "https://github.com/domeevans/dom_tools/issues"
     },
     license='MIT',
     packages=['dom_tools'],
